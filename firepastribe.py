@@ -7,7 +7,6 @@ board =    [[empty, empty, empty, empty, empty, empty, empty],
             [empty, empty, empty, empty, empty, empty, empty],
             [empty, empty, empty, empty, empty, empty, empty],
             [empty, empty, empty, empty, empty, empty, empty],
-            [empty, empty, empty, empty, empty, empty, empty],
             [empty, empty, empty, empty, empty, empty, empty]]
 
 def print_board():
