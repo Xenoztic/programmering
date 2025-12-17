@@ -88,4 +88,6 @@ def game_loop():
         if check_for_win(player2) == True:
             print("🔵 HAS WON THE GAME!")
             break
+
+        
 game_loop()
