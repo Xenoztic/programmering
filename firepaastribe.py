@@ -3,7 +3,6 @@ empty = " . "
 player1 = "🔴 "
 player2 = "🔵 "
 
-
 #selve boardet
 board =    [[empty, empty, empty, empty, empty, empty, empty],
             [empty, empty, empty, empty, empty, empty, empty],
