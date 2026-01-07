@@ -15,7 +15,7 @@ board = [[empty, empty, empty, empty, empty, empty, empty],
 
 # printer boardet og layoutet
 def print_board():
-    print("|  1  |  2  |  3  |  4  |  5  |   6  |  7  |")
+    print("|  1  |  2  |  3  |  4  |  5  |  6  |  7  |")
     print("|  _  |  _  |  _  |  _  |  _  |  _  |  _  |")
     for row in range(0, len(board)):
         for col in board[row]:
